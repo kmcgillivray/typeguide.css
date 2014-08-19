@@ -6,7 +6,7 @@ Most of the typography decisions reflected in this style sheet are based on Matt
 
 ## Getting started
 
-Place the typography.css file in your site folder structure and link to it in the head of the html files. From there, I recommend you change from the default Helvetica font and adjust the styles accordingly for the new font, following the guidelines in [Practical Typography](http://practicaltypography.com).
+Place the typography.css file in your site folder structure and link to it in the head of the html files. Or, copy the styles into your main CSS file. From there, I recommend you change from the default Helvetica font and adjust the styles accordingly for the new font, following the guidelines in [Practical Typography](http://practicaltypography.com).
 
 ## Components
 
