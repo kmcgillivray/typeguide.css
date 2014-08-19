@@ -1,0 +1,64 @@
+html {
+  font-size: 16px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+}
+body {
+  font-family: Helvetica, sans-serif;
+  margin-top: 30px;
+  font-size: 1em;
+  line-height: 1.35;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  margin-top: 0px;
+  margin-bottom: 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+  font-size: 1rem;
+}
+h1 {
+  margin-top: 0px;
+  font-size: 1.2rem;
+}
+h2 {
+  font-size: 1.1rem;
+}
+ul {
+  padding-left: 20px;
+}
+ol {
+  padding-left: 30px;
+}
+ul li,
+ol li {
+  margin-top: 0px;
+  margin-bottom: .75rem;
+}
+blockquote {
+  border-left: none;
+  font-size: .9rem;
+  line-height: 1.35;
+  padding-left: .75rem;
+  padding-right: .75rem;
+}
+hr {
+  border-bottom: 1px solid #777;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
