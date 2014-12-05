@@ -16,7 +16,9 @@ The typography guidelines I focused on were:
 
 ## Getting started
 
-Place the typography.css file in your site folder structure and link to it in the head of the html files. Or, copy the styles into your main CSS file. From there, I recommend you change from the default Helvetica font and adjust the styles accordingly for the new font, following the guidelines in [Practical Typography](http://practicaltypography.com).
+To see the styles in action, download this repository and open the `index.html` file in your browser.
+
+To use typography.css on your site, place the typography.css file in your site folder structure and link to it in the head of the html files. Or, copy the styles into your main CSS file. From there, I recommend you change from the default Helvetica font and adjust the styles accordingly for the new font, following the guidelines in [Practical Typography](http://practicaltypography.com).
 
 ## Components
 

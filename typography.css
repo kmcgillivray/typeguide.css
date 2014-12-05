@@ -7,13 +7,13 @@ html {
   }
 }
 body {
-  font-family: Helvetica, sans-serif;
-  margin-top: 30px;
-  font-size: 1em;
-  line-height: 1.35;
   max-width: 650px;
+  margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
+  font-family: Helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1.35;
 }
 p {
   margin-top: 0px;
@@ -48,17 +48,17 @@ ol li {
   margin-bottom: .75rem;
 }
 blockquote {
-  border-left: none;
-  font-size: .9rem;
-  line-height: 1.35;
   padding-left: .75rem;
   padding-right: .75rem;
+  font-size: .9rem;
+  line-height: 1.35;
+  border-left: none;
 }
 hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
   border-bottom: 1px solid #777;
   border-top: 0px;
   border-left: 0px;
   border-right: 0px;
-  margin-top: 40px;
-  margin-bottom: 40px;
 }
