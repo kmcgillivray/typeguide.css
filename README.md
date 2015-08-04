@@ -1,10 +1,14 @@
-# typography.css
+# typeguide.css
 
-Typography.css is a base style template for website typography. I found myself constantly re-styling typography in similar ways for many sites, so I took the most common, basic styles and pulled them into their own default stylesheet.
+Typeguide.css makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing. It’s easily customizable, less than 1KB, and is guaranteed to impress your friends and your mom too.
 
-Most of the typography decisions reflected in this style sheet are based on Matthew Butterick's book, [Practical Typography](http://practicaltypography.com). I highly recommend it for anyone interested in improving their typography skills.
+## Getting started
+
+[Copy the CSS into your stylesheet](https://raw.githubusercontent.com/kmcgillivray/typography.css/master/typography.css)
 
 ## Typography guidelines
+
+Most of the typography decisions reflected in this stylesheet are based on Matthew Butterick's book, [Practical Typography](http://practicaltypography.com).
 
 The typography guidelines I focused on were:
 
@@ -13,12 +17,6 @@ The typography guidelines I focused on were:
 3. Default heading sizes in HTML are gargantuan. There are better ways to draw attention to them. Headings here are bold and slightly larger than the body text, not double or triple in size.
 4. Line height should be a comfortable size, not too tall and not too short. Somewhere between 120% and 140% of the text size.
 5. Paragraphs are separated with spacing (margins) equal to 50-100% of the body text size, not separated with an extra return.
-
-## Getting started
-
-To see the styles in action, download this repository and open the `index.html` file in your browser.
-
-To use typography.css on your site, place the typography.css file in your site folder structure and link to it in the head of the html files. Or, copy the styles into your main CSS file. From there, I recommend you change from the default Helvetica font and adjust the styles accordingly for the new font, following the guidelines in [Practical Typography](http://practicaltypography.com).
 
 ## Components
 
