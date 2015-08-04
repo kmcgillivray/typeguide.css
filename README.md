@@ -4,7 +4,8 @@ Typeguide.css makes well-crafted website typography simple with a solid foundati
 
 ## Getting started
 
-[Download the stylesheet](https://raw.githubusercontent.com/kmcgillivray/typography.css/master/typography.css) – from there, copy the styles into your own stylesheet or include the file itself in your CSS folder.
+* [Download the stylesheet](https://raw.githubusercontent.com/kmcgillivray/typography.css/master/typography.css) – Put the file in your stylesheet folder or copy it into your stylesheet.
+* [npm](https://www.npmjs.com): npm install --save typeguide.css
 
 ## Typography guidelines
 
