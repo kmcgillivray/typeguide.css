@@ -1,6 +1,6 @@
 # typeguide.css
 
-Typeguide.css makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing. It’s easily customizable, less than 1KB, and is guaranteed to impress your friends and your mom too.
+Typeguide.css makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing. It’s easily customizable, responsive, less than 1KB, and guaranteed to impress your friends and your mom too.
 
 ## Getting started
 
