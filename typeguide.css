@@ -3,13 +3,13 @@
  * by @kev_mcg
  * http://github.com/kmcgillivray
  */
- 
+
 html {
-  font-size: 15px;
+  font-size: 14px;
 }
 @media (min-width: 768px) {
   html {
-    font-size: 18px;
+    font-size: 17px;
   }
 }
 body {
@@ -33,7 +33,7 @@ h6 {
 }
 h1 {
   margin-top: 0px;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 h2 {
   font-size: 1.2rem;
